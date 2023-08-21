@@ -1,0 +1,4 @@
+Lista de software:
+1.Google
+2.VSC
+3.office
